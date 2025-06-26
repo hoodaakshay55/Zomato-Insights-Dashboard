@@ -38,13 +38,13 @@ This Power BI dashboard delivers data-driven insights extracted from Zomato rest
 ## 📸 Dashboard Screenshots
 
 ### 🔍 Overview Page
-![Overview Dashboard](assets/zomato_overview.png)
+![Overview Dashboard](a"C:\Users\hooda\Desktop\445251487-5182bb56-ba12-47d0-88d5-fef22fd87fa5.png")
 
 ### 👥 User Analysis
-![User Analysis](assets/zomato_user_analysis.png)
+![User Analysis]("C:\Users\hooda\Desktop\445251660-6c4f12da-9c80-4d6e-bcae-3c412939db99.png")
 
 ### 🌍 Area/City-Wise Insights
-![Area Analysis](assets/zomato_area_analysis.png)
+![Area Analysis]("C:\Users\hooda\Desktop\445251732-2d5a1ed7-58e0-4e0a-b001-fb6d7e1db2a8.png")
 
 ---
 
