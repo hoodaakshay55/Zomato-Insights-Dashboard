@@ -49,3 +49,8 @@ This Power BI dashboard delivers data-driven insights extracted from Zomato rest
 
 ---
 
+📁 Project Files
+[📊 Download Dashboard (.pbix)] https://drive.google.com/file/d/1hw6hwjqtrCmn_wLb2q00YgQZ59PUMHRZ/view?usp=sharing
+
+⚠️ Note: To view the .pbix dashboard, please download the file and open it using Power BI Desktop. You can download Power BI Desktop for free from: https://powerbi.microsoft.com/desktop
+
